@@ -1,0 +1,49 @@
+Number,Name,Birth date,Death Date,"Age
+(Years)",Term Start,Term End,Term Length (Years),Party,Vice Presidents
+47,Donald Trump,1946-Jun-14,,79.7,2025-Jan-20,2029-Jan-20,4.0,Republican,J. D. Vance
+46,Joe Biden,1942-Nov-20,,83.3,2021-Jan-20,2025-Jan-20,4.0,Democratic,Kamala Harris
+45,Donald Trump,1946-Jun-14,,79.7,2017-Jan-20,2021-Jan-20,4.0,Republican,Mike Pence
+44,Barack Obama,1961-Aug-04,,64.6,2009-Jan-20,2017-Jan-20,8.0,Democratic,Joe Biden
+43,George W. Bush,1946-Jul-06,,79.6,2001-Jan-20,2009-Jan-20,8.0,Republican,Dick Cheney
+42,Bill Clinton,1946-Aug-19,,79.5,1993-Jan-20,2001-Jan-20,8.0,Democratic,Al Gore
+41,George H. W. Bush,1924-Jun-12,2018-Nov-30,94.5,1989-Jan-20,1993-Jan-20,4.0,Republican,Dan Quayle
+40,Ronald Reagan,1911-Feb-06,2004-Jun-05,93.4,1981-Jan-20,1989-Jan-20,8.0,Republican,George H. W. Bush
+39,Jimmy Carter,1924-Oct-01,2024-Dec-29,100.3,1977-Jan-20,1981-Jan-20,4.0,Democratic,Walter Mondale
+38,Gerald Ford,1913-Jul-14,2006-Dec-26,93.5,1974-Aug-09,1977-Jan-20,2.5,Republican,Nelson Rockefeller
+37,Richard Nixon,1913-Jan-09,1994-Apr-22,81.3,1969-Jan-20,1974-Aug-09,5.6,Republican,Spiro Agnew; Gerald Ford
+36,Lyndon B. Johnson,1908-Aug-27,1973-Jan-22,64.4,1963-Nov-22,1969-Jan-20,5.2,Democratic,Hubert Humphrey
+35,John F. Kennedy,1917-May-29,1963-Nov-22,46.5,1961-Jan-20,1963-Nov-22,2.8,Democratic,Lyndon B. Johnson
+34,Dwight D. Eisenhower,1890-Oct-14,1969-Mar-28,78.5,1953-Jan-20,1961-Jan-20,8.0,Republican,Richard Nixon
+33,Harry S. Truman,1884-May-08,1972-Dec-26,88.7,1945-Apr-12,1953-Jan-20,7.8,Democratic,Alben W. Barkley
+32,Franklin D. Roosevelt,1882-Jan-30,1945-Apr-12,63.2,1933-Mar-04,1945-Apr-12,12.1,Democratic,John Nance Garner; Henry A. Wallace; Harry S. Truman
+31,Herbert Hoover,1874-Aug-10,1964-Oct-20,90.3,1929-Mar-04,1933-Mar-04,4.0,Republican,Charles Curtis
+30,Calvin Coolidge,1872-Jul-04,1933-Jan-05,60.5,1923-Aug-02,1929-Mar-04,5.6,Republican,Charles G. Dawes
+29,Warren G. Harding,1865-Nov-02,1923-Aug-02,57.8,1921-Mar-04,1923-Aug-02,2.4,Republican,Calvin Coolidge
+28,Woodrow Wilson,1856-Dec-28,1924-Feb-03,67.1,1913-Mar-04,1921-Mar-04,8.0,Democratic,Thomas R. Marshall
+27,William Howard Taft,1857-Sep-15,1930-Mar-08,72.5,1909-Mar-04,1913-Mar-04,4.0,Republican,James S. Sherman
+26,Theodore Roosevelt,1858-Oct-27,1919-Jan-06,60.2,1901-Sep-14,1909-Mar-04,7.5,Republican,Charles W. Fairbanks
+25,William McKinley,1843-Jan-29,1901-Sep-14,58.7,1897-Mar-04,1901-Sep-14,4.5,Republican,Garry Hobart; Theodore Roosevelt
+24,Grover Cleveland,1837-Mar-18,1908-Jun-24,71.3,1893-Mar-04,1897-Mar-04,4.0,Democratic,Adlai Stevenson I
+23,Benjamin Harrison,1833-Aug-20,1901-Mar-13,67.6,1889-Mar-04,1893-Mar-04,4.0,Republican,Levi P. Morton
+22,Grover Cleveland,1837-Mar-18,1908-Jun-24,71.3,1885-Mar-04,1889-Mar-04,4.0,Democratic,Thomas A. Hendricks
+21,Chester A. Arthur,1829-Oct-05,1886-Nov-18,57.2,1881-Sep-19,1885-Mar-04,3.5,Republican,
+20,James A. Garfield,1831-Nov-19,1881-Sep-19,49.9,1881-Mar-04,1881-Sep-19,0.5,Republican,Chester A. Arthur
+19,Rutherford B. Hayes,1822-Oct-04,1893-Jan-17,70.3,1877-Mar-04,1881-Mar-04,4.0,Republican,William A. Wheeler
+18,Ulysses S. Grant,1822-Apr-27,1885-Jul-23,63.3,1869-Mar-04,1877-Mar-04,8.0,Republican,Schuyler Colfax; Henry Wilson
+17,Andrew Johnson,1808-Dec-29,1875-Jul-31,66.6,1865-Apr-15,1869-Mar-04,3.9,Democratic,
+16,Abraham Lincoln,1809-Feb-12,1865-Apr-15,56.2,1861-Mar-04,1865-Apr-15,4.1,Republican,Hannibal Hamlin; Andrew Johnson
+15,James Buchanan,1791-Apr-23,1868-Jun-01,77.2,1857-Mar-04,1861-Mar-04,4.0,Democratic,John C. Breckinridge
+14,Franklin Pierce,1804-Nov-23,1869-Oct-08,64.9,1853-Mar-04,1857-Mar-04,4.0,Democratic,William R. King
+13,Millard Fillmore,1800-Jan-07,1874-Mar-08,74.2,1850-Jul-09,1853-Mar-04,2.7,Whig,
+12,Zachary Taylor,1784-Nov-24,1850-Jul-09,65.7,1849-Mar-04,1850-Jul-09,1.3,Whig,Millard Fillmore
+11,James K. Polk,1795-Nov-02,1849-Jun-15,53.7,1845-Mar-04,1849-Mar-04,4.0,Democratic,George M. Dallas
+10,John Tyler,1790-Mar-29,1862-Jan-18,71.9,1841-Apr-04,1845-Mar-04,3.9,Whig,
+9,William Henry Harrison,1773-Feb-09,1841-Apr-04,68.2,1841-Mar-04,1841-Apr-04,0.1,Whig,John Tyler
+8,Martin Van Buren,1782-Dec-05,1862-Jul-24,79.7,1837-Mar-04,1841-Mar-04,4.0,Democratic,Richard Mentor Johnson
+7,Andrew Jackson,1767-Mar-15,1845-Jun-08,78.3,1829-Mar-04,1837-Mar-04,8.0,Democratic,John C. Calhoun; Martin Van Buren
+6,John Quincy Adams,1767-Jul-11,1848-Feb-23,80.7,1825-Mar-04,1829-Mar-04,4.0,Democratic-Republican,John C. Calhoun
+5,James Monroe,1758-Apr-28,1831-Jul-04,73.2,1817-Mar-04,1825-Mar-04,8.0,Democratic-Republican,Daniel D. Tompkins
+4,James Madison,1751-Mar-16,1836-Jun-28,85.3,1809-Mar-04,1817-Mar-04,8.0,Democratic-Republican,George Clinton; Elbridge Gerry
+3,Thomas Jefferson,1743-Apr-13,1826-Jul-04,83.3,1801-Mar-04,1809-Mar-04,8.0,Democratic-Republican,Aaron Burr; George Clinton
+2,John Adams,1735-Oct-30,1826-Jul-04,90.7,1797-Mar-04,1801-Mar-04,4.0,Federalist,Thomas Jefferson
+1,George Washington,1732-Feb-22,1799-Dec-14,67.9,1789-Apr-30,1797-Mar-04,7.8,Independent,John Adams

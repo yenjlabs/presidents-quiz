@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>US Presidents Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.4;
+    }
+    .controls {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+    input, button {
+      padding: 8px 10px;
+      font-size: 16px;
+    }
+    #prompt {
+      font-size: 22px;
+      font-weight: bold;
+      margin: 20px 0;
+    }
+    #choices {
+      display: grid;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .choice-btn {
+      padding: 12px;
+      font-size: 16px;
+      text-align: left;
+      cursor: pointer;
+    }
+    #score {
+      margin-top: 10px;
+      font-weight: bold;
+    }
+    #result.correct {
+      color: green;
+      font-weight: bold;
+    }
+    #result.incorrect {
+      color: #b00020;
+      font-weight: bold;
+    }
+    #result.info {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>US Presidents Quiz</h1>
+
+  <div class="controls">
+    <label>
+      CSV file:
+      <input id="csvPath" type="text" value="us_presidents.csv" />
+    </label>
+
+    <label>
+      Questions:
+      <input id="numQuestions" type="number" value="10" min="1" max="200" />
+    </label>
+
+    <button id="startBtn">Start Quiz</button>
+  </div>
+
+  <div id="prompt">Press “Start Quiz” to begin.</div>
+  <div id="choices"></div>
+  <div id="result"></div>
+  <div id="score">Score: 0/0</div>
+
+  <script src="quiz.js"></script>
+</body>
+</html>
