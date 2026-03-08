@@ -527,7 +527,7 @@ async function loadPresidents(csvPath) {
 
 async function startQuiz() {
   try {
-    const csvPath = document.getElementById("csvPath").value.trim() || "us_presidents.csv";
+    const csvPath = "us_presidents.csv";
     const requestedLength = parseInt(document.getElementById("numQuestions").value, 10);
 
     maxQuestions = Math.min(Math.max(requestedLength || 10, 1), 200);
