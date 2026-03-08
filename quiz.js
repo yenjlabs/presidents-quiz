@@ -496,11 +496,13 @@ function submitAnswer(choiceIndex) {
   updateScoreDisplay();
 
   if (askedQuestions.size >= maxQuestions || total >= maxQuestions) {
-    endQuiz();
+    setTimeout(() => {
+      endQuiz();
+    }, 1200);
   } else {
     setTimeout(() => {
       renderQuestion(generateQuestion());
-    }, 800);
+    }, 1200);
   }
 }
 
